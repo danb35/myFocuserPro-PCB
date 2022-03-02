@@ -16,8 +16,13 @@ First, of course, there's the change that drove the whole redesign--the footprin
 While the board size is similar to the original, it is not identical, and it will not fit in the 3D-printed case design that's posted on SourceForge.  As time permits, I'll try to prepare a case design that will work with this.
 
 # Board Images
-![Front PCB image](myFocuserPro-front.png)
-![Back PCB Image](myFocuserPro-back.png)
+Here are images of the front and back of the board:
+![PCB front side](pcb-front.png)
+![PCB back side](pcb-back.png)
+
+And here are 3D renders of (mostly) populated boards:
+![Front PCB render](myFocuserPro-front.png)
+![Back PCB render](myFocuserPro-back.png)
 
 # Ordering
 I don't sell these boards; you can have them made by any PCB fab you choose.  To do so, simply download Gerber/myFocuserPro.zip from this repo, upload it to your fab of choice, and have at it.  If you don't have a fab of choice, consider the two linked below, in which I have no financial interest (i.e., I'm not an affiliate, partner, or anything else; I don't make anything from your purchase of these boards--I'm just a customer of both services).
